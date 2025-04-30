@@ -6,7 +6,7 @@ html5lib==1.0.1
 idna==3.7
 psycopg2==2.7.3.2
 redis==2.10.6
-requests==2.18.4
+requests==2.32.2
 six==1.11.0
 urllib3==1.26.19
 webencodings==0.5.1
